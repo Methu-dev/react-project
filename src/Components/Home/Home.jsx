@@ -18,7 +18,7 @@ function Home() {
     </button>
   </div>
   <div className="flex justify-center items-center">
-    <img className="w-2/4" src="https://i.ibb.co.com/TBj0xb8B/Methu-2.jpg" alt="Methu Image" />
+    <img className="w-2/4 rounded-2xl" src="https://i.ibb.co.com/TBj0xb8B/Methu-2.jpg" alt="Methu Image" />
   </div>
 </div>
 
