@@ -1,11 +1,12 @@
 import React from "react";
+import TextChange from "../textChange/TextChange";
 
 function Home() {
   return (
     <div className="flex w-full justify-between items-start p-10 md:p-20">
   <div className="md:w-2/4 md:pt-10">
     <h1 className="text-white text-3xl md:text-6xl font-bold flex leading-normal tracking-tighter">
-      Hello' I am Methu
+      <TextChange />
     </h1>
     <p className="text-white text-sm md:text-2xl tracking-tight">
       Name: Methu Islam Profession: MERN Stack Developer Language
